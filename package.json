@@ -1,0 +1,11 @@
+{
+  "name": "shorturl",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
